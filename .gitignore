@@ -1,0 +1,12 @@
+/node_modules/
+node_modules/
+artifacts
+cache
+/lib/forge-std/
+cache_forge/
+out/
+.idea
+
+/contracts/.DS_Store
+hardhat.config.js
+hardhat.config.js
